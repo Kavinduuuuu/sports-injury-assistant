@@ -1,2 +1,2 @@
-# sports-injury-assistant
+# sports injury assistant
 Agentic RAG assistant for sports injury guidance
