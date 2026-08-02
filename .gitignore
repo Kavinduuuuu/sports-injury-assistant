@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Project-specific ─────────────────────────────────────────────────────────
+# ChromaDB persistent storage (generated at runtime by rag/ingest.py)
+chroma_db/
+
+# Environment file with real API keys
+.env
+
