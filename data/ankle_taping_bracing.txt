@@ -1,0 +1,139 @@
+Taping and bracing in the prevention of ankle sprains: current concepts
+Author links open overlay panel
+R Zwiers 1 2 3
+, 
+G Vuurberg 1 2 3
+, 
+L Blankevoort 1 2 3
+, 
+G M M J Kerkhoffs 1 2 3
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1136/jisakos-2016-000104
+Get rights and content
+Under a Creative Commons license
+Open access
+Ankle ligament injuries as a result of a sprain are one of the most common injuries in athletes. Taping and bracing are both often used in the treatment and prevention of recurrent ankle sprains. These external ankle supports have been shown to be effective in the prevention of (recurrence) of ankle sprains. Both taping and bracing have a preventive effect on ankle sprains during sports and while minimally affecting sport-specific performance. Although braces seem to be more valuable as an external ankle support in the prevention of recurrent ankle sprains, no definite conclusions can be made based on the available literature. Many studies have been performed on how these supports prevent ankle sprains, but the real working mechanism is still indistinct. The choice on whether to use tape or brace should therefore depend on the personal preference of athletes.
+Previous article in issue
+Next article in issue
+Introduction
+Ankle ligament injuries as a result of a sprain are one of the most common injuries in athletes.1 External ankle supports are frequently used, both during the recovery following ligament injuries, as well as in preventing first-time and recurrent sprains.2 Prospective epidemiological studies have shown a decrease in the incidence of ankle injury with the use of external ankle support.3 Several taping techniques have been described.4 The choice of taping technique mainly depends on the personal preference of the athlete. As an alternative to ankle taping, ankle braces have been developed. The numerous different ankle braces designed to prevent ankle sprains can be roughly divided into three groups: soft, semirigid and rigid braces. The effectiveness of taping or bracing depends on the material properties, application method and the athlete's status of ankle stability or previous injury.
+Taping and bracing are increasingly used both in prevention and during treatment or recovery after a ligament injury at all levels of sports activity (figure 1). Numerous studies are conducted on the effectiveness of external ankle supports in prevention of (recurrent) ankle sprains. Also, the rationale behind the effectiveness is extensively studied. The purpose of this current concepts review is to provide a comprehensive review of the beneficial and detrimental effects of ankle taping and bracing on the underlying mechanisms and sport-specific performance.
+
+Download: Download full-size image
+Figure 1. Taping technique and Brace types. *This is the most commonly used technique.5
+
+Effectiveness
+Several studies on the effectiveness of taping or bracing in preventing ankle sprains in athletes were conducted (Table 1, Table 2). Generally, there is consensus that external ankle supports are useful in the prevention of sprains. Evidence is inconclusive on whether taping or bracing is more effective.22 It is suggested that the preventive effect of taping and bracing is larger in athletes with a recurrence of ankle sprain in comparison with athletes without a history of ankle sprains.23
+Table 1. Evidence on prevention of ankle sprain
+
+Study	Preventive measures	Control group	Population	Outcome
+Babins6	Prophylactic usage of lace-up ankle brace	No therapy	1460 high school basketball players	Primary ankle sprain HR 0.30 in favour of brace
+Recurrent ankle sprain HR 0.39 in favour of brace
+Garrick and Requa et al7	Prophylactic taping combined with high-top and low-top shoes	No therapy	2544 basketball players	Primary ankle sprain 10.9 vs 17.9
+Recurrent ankle sprain 22.1 vs 140
+Both in favour of tape
+Moiler et al8	Fibular repositioning tape	No therapy	125 basketball players	2 vs 9, OR 0.20 in favour of tape in patients with recurrent ankle sprain
+Sitler et al9	Semirigid ankle stabilisers	No therapy	1601 basketball players	1.6 vs 5.2 sprains per 1000 hours of exposure in favour of brace; no subgroup analysis for recurrent ankle sprains
+Surve et al10	Semirigid ankle orthosis	No therapy	504 soccer players	0.5 vs 1.2 sprains per 1000 hours of exposure in favour of brace; no difference between new and recurrent ankle sprains
+Mickel et al11	Semirigid brace	Tape	83 American football players	No significant differences in ankle sprain incidence
+Mohammadi12	Brace	Balance board training programme
+Strength training programme
+No therapy	80 soccer players	No difference in recurrent ankle sprain incidence between the brace and control groups
+Rovere et al13	Tape	Lace-up brace	297 American football players	RR 0.5 in favour of brace
+No subgroup analysis for recurrent ankle sprains
+Tropp et al14	Brace	Balance board training programme	439 soccer players	Lower recurrent ankle sprain incidence in brace group
+Stasinopoulos15	External support	Proprioceptive training
+Specific technical training	Female volleyball players with previous ankle sprain (52)	Orthosis were not effective in preventing ankle sprains among those who had more than 3 times of sprain
+Simon and Donahue16	Taped	Cloth strapped	148 college football players	8 injuries
+Taped: 4/1270 practice days
+Cloth strapped: 4/1323 practice days
+McGuine et al17	Lace-up ankle brace	Non-braced control group	1460 high school basketball players	Use of lace-up brace reduced the incidence but not the severity of acute ankle injuries in athletes both with and without a history of an ankle injury (HR 0.32) 0.47 vs 1.41 in favour of brace.
+McGuine et al18	Lace-up ankle brace	Non-braced control group	2081 high school football players	Lower incidence of acute ankle injuries (HR 0.39) in favour of brace (0.48 vs 1.12). Braces did not lower the severity of ankle injuries.
+Sharpe et al19	Braces	Tape
+Combination
+No prophylaxis	38 soccer players, n=56 (previous injured ankles) and 1717 exposures	Significantly lower ankle sprain recurrence in favour of brace compared with tape and no therapy
+Rovere et al13	Lace-up brace	Tape	297 football players	Both tape (159 injuries, 23 reinjuries) and lace-up brace (37 injuries, 1 reinjury) lower primary and recurrent ankle sprain.
+Frey et al20	Prophylactic lace-up ankle braces	No therapy	999 volleyball players	Lace-up brace only showed a preventive effect in patients with primary ankle sprain
+Janssen et al21	Bracing	Neuromuscular training	384 athletes	Significant reduction in incidence of ankle sprain in favour of brace. RR 0.53 brace vs training
+RR, relative risk.
+Table 2. Effects of tape and brace
+
+Type of effect	Brace	Tape
+Mechanical	Greater restriction in inversion and eversion
+Overall ROM restriction compared with no brace condition
+Reduction of inversion velocity
+Lost beneficial restrictive effects after 45 min of exercise
+Inconclusive evidence on muscle activity
+Greater control of ground reaction force	Greater restriction in plantar flexion
+Overall ROM restriction compared with no tape condition
+Reduction of inversion velocity
+Lost beneficial restrictive effects after 15 min of exercise
+Greater peak muscle activity
+Inconclusive evidence on muscle activity
+Faster control of ground reaction force
+Neuromuscular	Inconclusive evidence on proprioception
+Inconclusive evidence on peroneal muscle latency
+Bare foot had better results on balance compared to bracing	Inconclusive evidence on proprioception
+Inconclusive evidence on peroneal muscle latency
+Barefoot had better results on balance compared to taping
+No influence on stability
+Psychological	Believe in ankle support to protect results in greater confidence while participating in sports	Believe in ankle support to protect results in greater confidence while participating in sports
+Feeling more confident, reassured and stable than no tape condition
+Placebo effect
+ROM, range of motion.
+In a systematic review on prevention strategies for ankle sprains, it was concluded that there is clear evidence to support the use of external support.24 Taping and bracing have been shown to decrease the risk of ankle sprains by 50–70% in those with a history of ankle sprains.24 Bracing was found to be superior to neuromuscular training, reducing the incidence of ankle injuries with 47% (relative risk reduction).21 In another systematic review on prevention of ankle sprains, taping and bracing show equal effectiveness.25
+Several studies addressed the number needed to treat (NNT) with the aim of evaluating the effectiveness of bracing and taping.26 A statistically significantly lower NNT was reported for bracing compared with taping. To prevent one ankle sprain, a clinician needed to brace 18 ankles with a history of ankle sprains for one season, compared with 39 ankles without a history of ankle sprains. For taping, 39–57 ankles with a history of ankle sprains had to be taped for one season to prevent one ankle sprain, and 143 ankles needed to be taped in athletes without a history of ankle sprains.26 Not all studies support the higher reduction of ankle sprains comparing patients with and without a previous ankle sprains.11
+Mechanisms of beneficial effects
+The exact mechanism underlying the preventive effect of external ankle support is not fully elucidated. The effectiveness of ankle supports might be a result of the combination of several mechanisms (box 1). The most frequently proposed theory is that of the mechanical support that is provided by taping or bracing. This support is achieved by preventing an extreme range of motions or abnormal movement. Other theories focus on the neuromuscular mechanisms. It is hypothesised that tape and brace usage increase proprioceptive input by activating the cutaneous mechanoreceptors around the ankle joint, which also influences the peroneal muscle activity and postural stability.24 Additionally, there might be a psychological effect to tape and brace usage brace usage, due to the feeling of support, or appearance of weakness.24
+Box 1
+Current concepts
+•
+Tape and brace are used in the prevention of ankle sprains;
+•
+Tape and brace are most effective in preventing recurrent sprains;
+•
+Braces have a lower number needed to treat (NNT) compared with tape;
+•
+Tape and brace lose their restrictive properties during exercise.
+Mechanical support
+Taping and bracing restrict the range of motion. The effectiveness of an external support in limiting the range of motion is extensively investigated.27 28 However, most studies were performed in a static situation. A meta-analysis compared the restriction of range of motion between lace-up braces, semirigid braces and tape both before and after exercise.29 The semirigid braces restricted inversion and eversion more than did tape and lace-up braces, both before and after exercise,30 which was contradicted by Bunch et al,31 concluding that freshly applied adhesive tape provided the best level of support. Tape was superior in restricting the maximal dorsiflexion.30 Tape and lace-up braces showed to lose their restrictive qualities and show equal joint restrition after exercise. Cordova et al,30 however, concluded that semirigid braces maintained their effect.
+Mechanical effects were also studied under more realistic conditions. By subjecting participants to fast inversion events on a tilting platform, an ankle sprain was simulated.30 The foot is loaded with body weight and the inversion instant is unknown to the patients. All braces restricted range of motion in all directions compared with no brace conditions. Variation was detected in the amount or range of motion restriction between different types of braces.32 Brace and inelastic tape reduced the range of motion to the same degree.28 Only one study concluded that a semirigid brace did not restrict range of motion in patients suffering from chronic ankle instability.33 In addition to restriction of range of motion, tapes and braces also reduce inversion velocity and time to maximum inversion.34 Between a semirigid brace, lace-up brace and inelastic tape, no differences have been found in reduction of the inversion velocity, maximum inversion and time to maximum inversion.35 The delay provided by ankle support allows the peroneal muscle additional time to respond. However, it has to be noted that real-time inversion injuries occur with a much higher velocity than used in these study settings.30
+One of the downsides of brace and tape is that both lose their mechanical function during exercise.27 36 Tape achieves a range of motion restriction of 50%. Of this 10% remained after exercise and most of the restrictive effects are lost during the first 20 minutes.27 37 Even though hyperelastic tape shows a higher load to failure compared with conventional tape, it maintains a higher portion of its support during 30 min of exercise.38 Braces have been shown to maintain their mechanical function in comparison to tape.36 It is questionable whether this remaining restrictive effect could account for the preventive effects of taping and bracing, or if other factors are of greater importance.
+Neuromuscular effects
+Several studies have investigated the effects of taping and bracing on the neuromuscular system. It is assumed that disturbed proprioception increases the risk of an ankle sprain.39 Neuromuscular control over the ankle is mainly achieved by proprioception (sensation of joint position and movement sense or reproduction), peroneal muscle activity, reflexes, reaction time and postural stability.
+Joint position and movement sense (proprioception)
+Recurrent ankle sprains damage mechanoreceptors in and around the ankle joint, which may cause impaired proprioception. After a first sprain, the disruption of afferent information affects the ability to detect sense of movement and joint position. Application of a tape or use of a brace is thought to increase stimulation of the cutaneous mechanoreceptors resulting in improved proprioception. This theory is supported by the high recurrence rate of ankle sprains and the fact that preventive usage of tape and brace seems to be more effective after first-time ligament injury.23
+The contribution of external ankle support on joint proprioception remains uncertain. A systematic review showed that tape or brace have no effect on movement and joint position sense in participants with recurrent ankle sprains or functional ankle instability.23 Even though the majority of the included studies reported a positive effect, no statistically significant effects were found after pooling of the data. Jerosch et al40 found a significant improvement in proprioception using tape and brace, while other studies found better results for single leg balance tests and jumping performance on barefooted.23 It seems that a positive effect on proprioception diminishes during activity. Using tape, a decrease in amplification of proprioception after exercise was shown, whereas an increase was detected before exercise.41
+Muscle activity
+The role of the peroneal longus muscle, as the most important everter of the ankle, in preventing ankle sprains has been studied extensively.29 42 43 Both muscle function and reflex latency have been addressed. The theory that ankle support shortens the reaction time has not been proven yet. Conflicting results have been reported regarding peroneal muscle latency. Whereas some authors reported a decreased latency,43 44 others have not been able to find any difference.29 40 In patients with previously injured ankles, even an increased latency has been reported.42 These conflicting findings may have been caused by methodological differences, such as experimental setting, inversion velocity and inversion amplitude.
+Comparing taped ankles with the unprotected condition showed no changes in peroneal muscle activity before, and 20 min after exercise.45 Between the semirigid brace, inelastic tape and a control group also, no change in reaction time was found.41 While wearing a semirigid brace or low-dye tape, electromyography (EMG) showed impaired muscle activity compared with not wearing external ankle support, leading to lower muscle force and muscle reaction times.46 Also, in this case, some studies contradict these results, finding no effect on activity of the gastrocnemius muscle and tibialis anterior muscle, and even demonstrating increased muscle activity for the soleus and peroneus longus muscles.47
+Testing peak muscle activity (highest muscle activity measured over a set period of time) using EMG showed no difference between an elastic tape group and control group. Conventional inelastic tape showed greater muscle activity than the no tape conditions. Between a conventional tape and elastic tape, no differences were found. The conventional tape group showed a longer time-to-peak activity compared with elastic tape and no tape.29 48
+Postural control or stability
+Postural control is defined as the act of maintaining, achieving or restoring a state of balance during any posture or activity.49 It is thought that athletes with a decreased postural control are more prone to an ankle sprain injury. The main focus of studies on the influence of brace and tape on postural control has been the centre-of-pressure or centre-of-gravity displacement.50 Assessing the effect of tape on postural control in football players, taping did neither influence stabilometric values,50 nor improve postural control during a sagittal and frontal plane landing task.51 Compared with a soft brace and no brace, a semirigid brace did improve dynamic postural stability.52 Other important variables studied in the sprain mechanism are magnitude, direction and point of application of the impact force, and are described by the ground reaction force.53 Comparing an inelastic tape with a semirigid brace and a control group showed a greater control of the ground reaction force using a semirigid brace compared with the control group and less control compared with taping.54
+Psychological effects
+A less extensively described theory regarding the beneficial effects of ankle support is the psychological effect taping and bracing may provide.3 16 Patients report a more stable, confident and reassured feeling with the application of the standard taping technique or a single strip of tape, while performing functional or sport-specific tasks, compared with no tape.26 It is thought that athletes who believe that a certain type of ankle support will protect them from a sprain will participate in sport with greater confidence.55
+A placebo effect of ankle tape has been described.56 Both regular tape and placebo tape increased the participants' perceptions of stability (87.5%), confidence (56%) and reassurance (68.75%) while performing functional tests.51 57
+Detrimental effects
+For prophylactic use in sports, the brace should ensure the necessary stability without limiting performance. The detrimental effect of external ankle support on functional performance may be decisive for the use of an external ankle support. Although tape and brace seem useful in preventing (recurrent) ankle sprains, players are not likely to use them if they feel hampered in their performance. One of the main effects of tape and brace is a limitation of the range of motion. Restrictions in the frontal and sagittal planes could interfere with the execution of sport-specific tasks. Three skills are widely investigated, namely running, running agility and vertical jump.
+Ability to quickly change direction
+For sideward cutting movements, the ankle is placed under inversion stress to enable push-off and return to top speed. For optimally performing this task, the maximum amount of inversion as well as plantar flexion and dorsiflexion is necessary. The maximum amount of dorsiflexion is required to provide explosive propulsion for push-off and for change in direction. Dorsiflexion is needed for making ground contact closer to the centre of mass, reducing breaking forces and using the Achilles tendon stretch reflexes. It seems obvious that tape or brace, which restricts the amount of dorsiflexion, will affect an athlete's agility. Only a negligible decrease in agility, however, was found while performing cutting movement tasks.54 58 In a randomised trial, two semirigid braces and a conventional tape were compared. This study showed that brace and tape affected the agility during running tasks.59 This result was contradicted by other studies, finding no difference in agility between the placebo tape and no tape conditions,60 61 or for tape alone.62
+Balance, kicking accuracy and landing
+Balancing, kicking and landing are activities common in sports and can also be affected while wearing tape or brace. Knowing the sport-specific restrictions is important as tape and brace are often used during sports as prophylaxis.63
+No difference in balance was found while comparing a tape and semirigid brace to a control group.64 Testing dynamic balance comparing an inelastic tape with semirigid braces and a control group and comparing placebo tape to no-tape did not show any differences as well.59 63 One study concluded that kicking accuracy was not affected by wearing a lace-up brace.64 Concerning landing, lace-up ankle braces do not seem to affect landing forces but, due to the applied joint stiffness, joint excursion during landing is reduced.65
+Speed
+Running fast is an essential skill in many sports. Therefore, ankle support that impedes an athlete in running speed will not be popular. Athletes must be able to quickly dorsiflex the ankle before the stance phase, and subsequently forcefully plantarflex the ankle during push-off. It seems clear that when tape or brace restricts the dorsiflexion and/or plantar flexion, this will affect speed. Negative effects of wearing a semirigid brace, lace-up brace and adhesive tape on running speed were reported.54 A lace-up brace may result in 3.5% reduction of sprint speed.63 Other randomised trials did not find any effect of tape or brace on performing speed exercises.64 66
+Vertical jump
+Vertical jump height may also become impaired if the external ankle support decreases the functional range of motion. For vertical jump height, talocrural motion is a critical component, as it has a role in propulsion from the ground.4 Several studies have evaluated the effects of ankle support on vertical jump, with most studies reporting ankle tape or braces to only have a minor significant effect on vertical jump height.27 54 58 59 64 An inelastic tape and semirigid brace were the only external support devices that resulted in a decrease of 5.4% in jump height compared with untaped ankles.64 67 One study showed that the highest jump performances were achieved after mechanical function of the external ankle support was decreased.68 Comparing tape to brace, better jump performances were shown while wearing a semirigid brace compared with elastic tape.69
+Costs
+Considering costs, usage of a brace seems more cost-effective than athletic tape. A tape would cost three times more than a semirigid brace every season.26 A semirigid brace offers a low-cost alternative to athletic tape for providing external support to the ankle.17 18 Based on actual measurements of use, the average amount of tape required to tape a single ankle was estimated to be 75% of a standard roll of tape. The cost over 1 season (48 exposures) for 1 ankle was ∼$40.01 for tape compared with the average cost of the AirSport ankle brace of $28.00. Additionally, applying tape is more time-consuming in comparison with a brace.11 21
+Discussion
+On the basis of the current literature, we can conclude that there is adequate evidence that shows that tape and brace are effective in the prevention of ankle sprains. No type of external ankle support up until now has shown superior results. In athletes who have recovered from a previous ankle sprain, the tape and brace seem to be more effective in preventing an ankle sprain than in athletes who have not sustained an ankle sprain previously. The explanation for the effectiveness of ankle support is not completely clear. Range of motion is restricted by brace and tape. However, they lose their restrictive capacities during exercise. The evidence supporting the neuromuscular theories is inconclusive. There may be a psychological cause for the effectiveness of ankle tape or brace, but more research is needed to draw firm conclusions in this respect. Regarding the detrimental effects of external ankle support on physical performance, it is reported that ankle braces seem to affect the ability to quickly change direction. Reported effects on other sport-specific skills are inconsistent.
+Ankle tape and brace appear to be valid prophylactic measures for the prevention of first and recurrent sprains in individuals who participate in activities associated with a high risk of ankle sprains, such as basketball, volleyball and football. The effect of tape and brace decreases during sporting exercise. Retightening of the brace is required every 45 min, and in case of a tape, the old tape should be removed and a new tape applied every 15 min.
+Regarding the future, it may be expected that new braces will be developed that maintain their restrictive properties for longer periods of time during exercise, to ensure that braces will prevent (recurrent) ankle sprains during a full football or other sports match or training. Additionally, sport-specific braces may be developed as not all sports require the same sport-specific physical skills. Furthermore, currently most studies include an intervention and a control group. However, the assessed variables may also be interdependent, making measurements between patients less reliable. The outcome can be explained by discrepancies between patients instead of differences between tape and brace. Therefore, more studies with larger sample sizes will have to be executed to assess the different effects of tape and brace within patients instead of between patients

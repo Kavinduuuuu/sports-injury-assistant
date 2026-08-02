@@ -1,0 +1,450 @@
+SPORTS INJURY FIRST AID AND RECOVERY GUIDE
+==========================================
+A Reference for Athletes and Sports Coaches
+Source: General Sports Medicine and Physiotherapy Principles
+
+
+SECTION 1: THE RICE AND PRICE PROTOCOLS
+========================================
+
+The RICE Protocol — Rest, Ice, Compression, Elevation
+------------------------------------------------------
+The RICE protocol is the cornerstone of first-aid treatment for acute soft-tissue
+sports injuries such as sprains, strains, and bruises. It should be applied within
+the first 24–72 hours of injury to limit swelling, reduce pain, and promote healing.
+
+REST
+The injured area must be rested immediately. Continuing activity after injury
+increases tissue damage and prolongs recovery time. For lower-limb injuries,
+use crutches if needed to keep weight off the area.
+
+ICE
+Apply a cold pack, ice wrapped in a damp cloth, or a bag of frozen vegetables
+to the injured area for 15–20 minutes. Repeat every 2–3 hours for the first
+48–72 hours. Never apply ice directly to bare skin as it can cause ice burns.
+Cold therapy reduces inflammation and numbs the area to decrease pain.
+
+COMPRESSION
+Wrap the injured area firmly with a compression bandage (e.g. a crepe bandage)
+to reduce swelling. Start from below the injury and work upward. Ensure the
+bandage is not so tight that it cuts off circulation — check that fingers or toes
+remain warm and pink. Loosen if there is increased pain, numbness, or tingling.
+
+ELEVATION
+Raise the injured limb above the level of the heart whenever possible, especially
+in the first 24 hours. This uses gravity to drain excess fluid away from the area,
+reducing swelling significantly.
+
+The PRICE Protocol — Protection, Rest, Ice, Compression, Elevation
+-------------------------------------------------------------------
+PRICE adds Protection to the RICE protocol:
+
+PROTECTION
+In the immediate period following injury, protect the area from further harm.
+This may mean removing a boot or glove carefully, stopping all play immediately,
+using a splint or sling where appropriate, or having the athlete carried off
+the field rather than walking.
+
+When to Use PRICE vs RICE
+PRICE is preferred for more severe injuries or where there is risk of further
+damage. RICE is appropriate for minor sprains and muscle strains. If in doubt,
+always apply protection first.
+
+
+SECTION 2: ANKLE SPRAINS
+=========================
+
+Overview
+Ankle sprains are the most common sports injury, particularly in football,
+basketball, netball, and running. They occur when the ankle is rolled, twisted,
+or turned beyond its normal range of motion, damaging the ligaments.
+
+Grades of Ankle Sprain
+- Grade 1 (Mild): Minor stretching and microscopic tearing of ligament fibres.
+  Mild tenderness, swelling. Can bear weight. Recovery: 1–3 weeks.
+- Grade 2 (Moderate): Partial tearing of the ligament. Moderate pain, swelling,
+  bruising, and instability. Difficult to bear weight. Recovery: 3–6 weeks.
+- Grade 3 (Severe): Complete ligament rupture. Severe swelling, bruising,
+  significant instability. Cannot bear weight. May need imaging to rule out fracture.
+  Recovery: 6–12 weeks, sometimes longer.
+
+Immediate Treatment
+Apply the PRICE protocol immediately. Do not attempt to "walk it off."
+Seek medical evaluation if you suspect a Grade 3 sprain or fracture.
+The Ottawa Ankle Rules indicate imaging is required if there is bone tenderness
+along the back edge of the lower fibula, the back edge of the tibia,
+or inability to bear weight for four steps.
+
+Rehabilitation Phases
+Phase 1 (Days 1–3): PRICE. No weight bearing. Pain management.
+Phase 2 (Days 3–14): Gentle range of motion exercises. Partial weight bearing
+with support. Pool walking if available.
+Phase 3 (Week 2–6): Strengthening exercises. Single-leg balance. Proprioception
+training. Progressive return to weight bearing.
+Phase 4 (Week 4–12): Sports-specific drills. Return to training. Ankle bracing
+for the first few weeks back.
+
+Red Flags — See a Doctor Immediately
+- Inability to bear weight at all
+- Significant deformity of the joint
+- Numbness or pins and needles below the ankle
+- Severe bruising within the first hour
+- Suspected fracture
+
+
+SECTION 3: KNEE INJURIES
+=========================
+
+Overview
+Knee injuries are common in sports involving pivoting, jumping, and contact.
+The most frequently injured structures are the anterior cruciate ligament (ACL),
+the medial collateral ligament (MCL), the menisci (cartilage pads), and the
+patellar tendon.
+
+Anterior Cruciate Ligament (ACL) Injury
+The ACL is responsible for rotational stability of the knee. ACL injuries often
+occur with sudden deceleration, pivoting, or direct contact. A characteristic
+"pop" is often heard or felt at the time of injury, followed by rapid swelling
+(within 2 hours), instability, and inability to continue playing.
+
+ACL injuries require specialist assessment (MRI scan). Partial tears may be
+managed conservatively with physiotherapy; complete ruptures usually require
+surgical reconstruction followed by 9–12 months of rehabilitation.
+
+Do NOT attempt to return to sport without specialist clearance after an ACL injury.
+
+Medial Collateral Ligament (MCL) Injury
+The MCL is on the inner side of the knee and is commonly injured by a direct
+blow to the outer knee or excessive valgus force (knee caving inward).
+Grade 1–2 MCL tears are usually treated conservatively: RICE, bracing, and
+progressive physiotherapy. Grade 3 tears may need surgical review.
+Recovery: 2–8 weeks depending on severity.
+
+Patellofemoral Pain Syndrome (Runner's Knee)
+Aching pain around or behind the kneecap, worsened by running, stairs, squatting,
+or sitting for long periods. Caused by poor patellar tracking, weak quadriceps or
+hip muscles, and overtraining. Treatment: activity modification, ice, quadriceps
+and hip strengthening, correct running technique. Recovery: 4–12 weeks.
+
+Meniscal Tears
+The menisci are C-shaped cartilage pads that act as shock absorbers. A torn
+meniscus typically presents with localised joint-line tenderness, swelling,
+clicking, catching or locking sensations, and difficulty fully bending or
+straightening the knee. MRI is required for diagnosis. Treatment depends on the
+type and location of the tear — many are managed conservatively; others require
+arthroscopic surgery.
+
+Immediate Treatment for Knee Injuries
+Apply PRICE. Do not twist or force the knee. Seek medical assessment if the knee
+is locked, unable to fully extend, severely swollen, or very unstable.
+
+
+SECTION 4: SHOULDER INJURIES IN SPORT
+=======================================
+
+Overview
+Shoulder injuries are common in throwing sports (cricket, baseball, javelin),
+racket sports (tennis, badminton), swimming, and contact sports.
+The shoulder is the most mobile joint in the body, which makes it inherently
+less stable and more vulnerable to injury.
+
+Rotator Cuff Strains and Tears
+The rotator cuff is a group of four muscles (supraspinatus, infraspinatus,
+teres minor, subscapularis) that stabilise the shoulder. Overuse, repetitive
+overhead movements, or acute trauma can strain or tear these muscles.
+
+Symptoms: Pain on shoulder movement (especially raising the arm above 90°),
+weakness, and aching at night.
+
+Treatment: RICE for acute injury, rest from overhead activities, physiotherapy
+focused on rotator cuff strengthening and scapular stability. Partial tears
+respond well to physiotherapy; complete tears may require surgical repair.
+Recovery: 6 weeks to 6 months depending on severity.
+
+Shoulder Dislocation
+Dislocation occurs when the head of the humerus pops out of the shoulder socket,
+usually anteriorly (forward). It is common in contact sports, rugby, and football.
+
+Signs: Intense pain, obvious deformity, inability to move the arm, the arm
+held away from the body.
+
+CRITICAL: Do NOT attempt to put the shoulder back yourself. This requires trained
+medical personnel and often requires muscle relaxants. Immobilise the arm
+with a sling, apply ice, and seek immediate emergency medical attention.
+
+After formal reduction by a doctor, rehabilitation includes progressive range of
+motion, rotator cuff strengthening, and sport-specific exercises.
+Recovery: 3–6 months; risk of recurrence is high in young athletes.
+
+Shoulder Impingement Syndrome
+Repetitive overhead movements can cause tendons to be pinched under the acromion
+bone. Symptoms include a dull ache at the top/front of the shoulder, pain when
+reaching overhead or behind the back, and painful arc of movement between 60–120°.
+Treatment: Activity modification, ice, NSAIDs (on medical advice), physiotherapy
+with posterior capsule stretching and strengthening.
+
+
+SECTION 5: MUSCLE STRAINS
+==========================
+
+Overview
+A muscle strain (or "pulled muscle") occurs when muscle fibres are overstretched
+or torn. They are classified by grade:
+
+- Grade 1 (Mild): Minor fibre tearing. Tightness and localised tenderness.
+  No significant loss of strength. Recovery: 1–2 weeks.
+- Grade 2 (Moderate): Partial muscle tear. Significant pain, swelling, bruising.
+  Reduced strength. Recovery: 3–6 weeks.
+- Grade 3 (Severe): Complete muscle rupture. Severe pain, significant disability,
+  possible palpable defect in the muscle. Often requires surgical consultation.
+  Recovery: 3–6 months.
+
+Hamstring Strains
+Hamstrings (muscles at the back of the thigh) are the most commonly strained
+muscles in sprinting sports — athletics, football, rugby, and cricket.
+They often occur during explosive acceleration or high-speed running.
+
+Immediate treatment: Stop activity immediately. Apply PRICE. Do not stretch
+the hamstring in the acute phase. Seek physiotherapy assessment.
+
+Return to sport should be gradual and guided by a physiotherapist.
+Premature return to sport is the main cause of re-injury, which can result in
+a chronic problem. A full hamstring strain rehabilitation programme typically
+lasts 6–12 weeks.
+
+Calf Strains
+Calf strains (gastrocnemius or soleus) are common in running and racket sports.
+Often described as a sudden sharp pain in the back of the lower leg, as if kicked.
+Apply PRICE immediately. Use heel raises inside shoes to reduce calf tension.
+Avoid stretching in the acute phase. Recovery: 1–6 weeks depending on grade.
+
+Quadriceps Strains
+The quadriceps at the front of the thigh can be strained during explosive
+kicking or sprinting. Apply PRICE. Gentle knee flexion exercises begin after 48h.
+Recovery: 2–6 weeks.
+
+Muscle Cramps
+Cramps are sudden, involuntary, and painful contractions of a muscle. They are
+common during or after exercise, especially in hot conditions with dehydration
+or electrolyte imbalance.
+
+Immediate treatment: Gently stretch and massage the affected muscle. Rehydrate
+with water or a sports drink containing electrolytes. Do not resume intense
+activity until the cramp has fully resolved and the muscle feels relaxed.
+Prevention: adequate hydration before and during sport, warm-up and cool-down,
+balanced diet with potassium and magnesium.
+
+
+SECTION 6: HEAD INJURIES AND CONCUSSION
+=========================================
+
+Overview
+Concussion is a traumatic brain injury caused by a direct or indirect blow to
+the head, face, or neck. It is serious and must never be ignored.
+
+Signs and Symptoms of Concussion
+- Headache or pressure in the head
+- Nausea or vomiting
+- Dizziness or balance problems
+- Blurred or double vision
+- Sensitivity to light or noise
+- Feeling "foggy" or confused
+- Memory problems (can't remember events before or after the incident)
+- Loss of consciousness (may be brief)
+- Slurred speech
+- Abnormal behaviour or personality change
+
+CRITICAL RULE — "If in doubt, sit them out"
+Any athlete suspected of having a concussion must be removed from play immediately
+and must NOT return to play on the same day, regardless of how well they feel.
+The athlete must be assessed by a medical professional before returning to sport.
+
+Concussion Management — Return to Sport Protocol
+Once all symptoms have fully resolved at rest, the athlete must follow a
+graduated return-to-sport programme:
+1. Light aerobic exercise (walking, swimming)
+2. Sport-specific exercise (running drills)
+3. Non-contact training drills
+4. Full-contact practice (after medical clearance)
+5. Return to competition
+
+Each step takes a minimum of 24 hours. If symptoms return at any step, go back
+to the previous step after being symptom-free for 24 hours.
+
+EMERGENCY — Seek immediate medical attention if:
+- Loss of consciousness lasting more than 1–2 minutes
+- Seizures
+- Repeated vomiting
+- Worsening headache
+- Unequal pupils
+- Clear fluid from the nose or ears
+- Weakness or numbness in limbs
+
+
+SECTION 7: FRACTURES AND DISLOCATIONS
+========================================
+
+Overview
+Fractures (broken bones) and dislocations (joint out of place) are serious
+injuries that require immediate medical attention. Sports carry risk of fractures
+from falls, collisions, or impact with equipment.
+
+Signs of a Fracture
+- Severe pain at the injury site, worsened by movement or pressure
+- Obvious deformity or angulation
+- Rapid, significant swelling
+- Bruising over the injury site
+- A "snap" or "crack" heard at the time of injury
+- Inability to use the injured limb
+- Numbness or tingling (suggests nerve involvement)
+- In open fractures: bone visible through the skin — EMERGENCY
+
+First Aid for Suspected Fractures
+- Stop the athlete immediately
+- Do NOT try to straighten a deformed limb
+- Immobilise the injury: support the limb in the position found using a splint
+  (a rolled newspaper or magazine can work in an emergency) or a sling for arm injuries
+- Apply ice wrapped in cloth to reduce swelling
+- Seek immediate medical attention (emergency department)
+- Treat for shock if necessary: keep the athlete warm, lie them down, and keep
+  them calm
+- For open fractures: cover the wound with a clean cloth; do NOT attempt to
+  push the bone back in. Call emergency services immediately.
+
+Dislocations
+A dislocation is when the bones of a joint are forced out of their normal position.
+Common in the shoulder, finger, and kneecap.
+- Do NOT attempt to relocate the joint yourself
+- Immobilise in the current position
+- Apply ice and seek immediate medical or emergency care
+
+
+SECTION 8: KARATE AND MARTIAL ARTS SPECIFIC INJURIES
+======================================================
+
+Common Injuries in Karate
+Karate and similar martial arts carry a specific injury profile due to striking,
+kicking, blocking, and falling techniques.
+
+Hand and Wrist Injuries
+- Boxer's fracture: fracture of the 4th or 5th metacarpal from improper punching
+  technique. Signs: knuckle area pain and swelling, depressed knuckle. Requires
+  X-ray and medical management.
+- Wrist sprains: common from falls or blocking. Apply PRICE. If severe or
+  persistent, an X-ray is needed to rule out scaphoid fracture (often missed —
+  persistent snuffbox tenderness warrants imaging even if initial X-ray is normal).
+
+Foot and Toe Injuries
+- Toe sprains and dislocations from kicking with incorrect technique
+- Metatarsal stress fractures from repetitive footwork on hard training floors
+- Apply PRICE; seek medical review for suspected fractures
+
+Rib Injuries
+- Rib contusions from blocking are common in kumite (sparring)
+- Symptoms: localised rib pain, worse on deep breathing or movement
+- Rest from contact training. Rib fractures require hospital assessment.
+
+Head and Face Injuries
+- All head injuries in martial arts must be taken seriously
+- Refer to Section 6 for concussion assessment and management
+- Facial lacerations and broken noses require medical assessment
+
+Injury Prevention in Karate
+- Always train with properly fitted protective equipment (gloves, shin guards,
+  mouthguard, groin guard where applicable)
+- Ensure correct technique before increasing intensity
+- Warm up thoroughly before training
+- Tap out early in grappling — do not push through joint pain
+- Train on appropriate matted surfaces
+- Ensure medical cover is present at competitions
+
+
+SECTION 9: OVERUSE INJURIES AND TENDINOPATHY
+=============================================
+
+Overview
+Overuse injuries occur gradually from repetitive stress rather than a single
+traumatic event. They are common in endurance sports and sports with repetitive
+technique demands.
+
+Tendinopathy (Tendon Pain)
+Formerly called tendinitis, tendinopathy is now recognised as a degeneration
+of the tendon structure rather than simple inflammation.
+
+Common sites: Achilles tendon, patellar tendon (jumper's knee), rotator cuff
+tendons, and the lateral elbow tendons (tennis elbow).
+
+Symptoms: Gradual onset of localised pain and stiffness, worse in the morning
+and at the start of exercise (warms up then returns after cooling down).
+
+Treatment:
+1. Load management — reduce but do not completely rest. Total rest is counterproductive.
+2. Eccentric loading exercises — the strongest evidence-based treatment
+   (e.g. Alfredson heel-drop protocol for Achilles tendinopathy)
+3. Ice after activity for pain management
+4. Avoid aggravating activities in the short term
+5. Physiotherapy guidance is essential
+
+Recovery: 6–24 weeks depending on severity and compliance with rehab.
+
+Shin Splints (Medial Tibial Stress Syndrome)
+A common overuse injury in runners and jumping athletes. Pain along the inner
+edge of the shinbone, often in both legs. Caused by repetitive impact on
+hard surfaces, sudden increases in training load, or biomechanical issues.
+
+Treatment: Reduce training load. Replace hard-surface training with swimming
+or cycling. Ice after activity. Review running footwear. Gradual return to
+running over 4–8 weeks.
+
+Stress Fractures
+Repeated loading can cause microscopic cracks in bone that progress to a stress
+fracture. Common in the metatarsals, tibia, and fibula in runners.
+Signs: Focal, pinpoint bone tenderness, pain that starts during activity and
+persists after. Often normal on initial X-ray — MRI or bone scan may be needed.
+Treatment: Non-weight-bearing rest, boot or crutches in severe cases.
+MUST be assessed by a medical professional. Return to sport takes 6–16 weeks.
+
+
+SECTION 10: GENERAL RECOVERY PRINCIPLES
+=========================================
+
+Hydration and Nutrition
+Adequate hydration is critical for both performance and recovery. Dehydration
+impairs muscle function and increases injury risk. Drink water consistently
+throughout the day and during training. Use sports drinks for sessions exceeding
+60–90 minutes to replace electrolytes.
+
+Protein intake supports muscle repair. Aim for 1.6–2.2g of protein per kg of
+body weight per day when recovering from a muscle injury.
+
+Sleep and Rest
+Sleep is the body's primary recovery mechanism. During deep sleep, growth hormone
+is released, which stimulates tissue repair. Athletes should aim for 7–9 hours
+per night. Sleep deprivation increases injury risk and slows recovery.
+
+Progressive Loading
+When returning from injury, do not rush. Gradual progressive loading allows
+the healing tissue to adapt. The general rule is: increase load by no more than
+10% per week. Pain should be used as a guide — discomfort up to a 3/10 is
+generally acceptable during rehab; sharp or worsening pain means stop.
+
+Psychological Recovery
+Injury can have a significant psychological impact, including frustration,
+anxiety, and fear of re-injury. Acknowledge these feelings. Set short-term
+goals during rehabilitation to maintain motivation. Seek support from
+sports psychologists if fear of re-injury is preventing return to sport.
+
+When to See a Physiotherapist
+Seek physiotherapy if:
+- Pain is not improving within 5–7 days of self-care
+- You are unsure about the severity of an injury
+- You are returning from a significant injury and need a structured programme
+- You have recurring injuries in the same area
+
+When to Seek Emergency Medical Care
+- Suspected fracture or dislocation
+- Head injury or suspected concussion
+- Chest pain, difficulty breathing, or loss of consciousness
+- Severe or uncontrolled bleeding
+- Suspected spinal injury — do not move the athlete
+- Any injury where you are unsure of the severity

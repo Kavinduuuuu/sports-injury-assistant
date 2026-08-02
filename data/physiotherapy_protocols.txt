@@ -1,0 +1,289 @@
+PHYSIOTHERAPY REHABILITATION PROTOCOLS
+=======================================
+Sports Medicine Rehabilitation Reference
+Source: Evidence-Based Physiotherapy Practice Guidelines
+
+
+SECTION 1: PRINCIPLES OF SPORTS REHABILITATION
+================================================
+
+The Rehabilitation Continuum
+Sports rehabilitation follows a continuum from acute injury management through
+to full return to sport. The process can be divided into four main phases,
+each with specific goals, exercises, and criteria that must be met before
+progression to the next phase.
+
+Criteria-Based vs Time-Based Progression
+Modern sports rehabilitation uses criteria-based progression rather than
+rigid time frames. An athlete progresses when they meet specific functional
+milestones, not simply because a set number of weeks has passed. This
+reduces the risk of premature return and re-injury.
+
+Pain as a Guide
+Pain should be used as a guide during rehabilitation:
+0–3 / 10: Acceptable during exercise, usually indicates healthy loading
+4–6 / 10: Caution — reduce load, monitor next-day response
+7+ / 10: Too much — stop the activity, rest, and reassess
+
+Post-exercise soreness that resolves within 24 hours is generally acceptable.
+Increased baseline pain or night pain requires physiotherapy review.
+
+
+SECTION 2: ANKLE SPRAIN REHABILITATION PROTOCOL
+================================================
+
+Phase 1 — Acute Phase (Days 1–5)
+Goals: Reduce swelling and pain, protect the tissue, maintain fitness.
+
+Exercises:
+- Ankle pumps (slow dorsiflexion and plantarflexion, 20 reps, 4x/day)
+- Gentle ankle circles within pain-free range (10 each direction, 3x/day)
+- Isometric exercises with a resistance band (4 directions, 10s holds x 10)
+- Non-weight-bearing upper body and contralateral limb conditioning
+
+Criteria to progress: Swelling reducing, able to partially bear weight
+without significant pain.
+
+Phase 2 — Sub-Acute Phase (Days 5–21)
+Goals: Restore full range of motion, normalise gait, begin weight bearing.
+
+Exercises:
+- Standing calf raises (double leg, progress to single leg): 3 x 15–20 reps
+- Balance board or wobble board standing (2 x 60 seconds)
+- Theraband resistance exercises in all planes: 3 x 15 reps
+- Pool walking or cycling if running is not yet possible
+- Gentle hamstring, calf, and quadriceps stretching
+- Progress to normal walking on flat surfaces
+
+Criteria to progress: Full range of motion, normal gait pattern, able to
+single-leg stand for 30 seconds with minimal wobble, minimal swelling.
+
+Phase 3 — Functional Phase (Weeks 3–8)
+Goals: Restore strength, proprioception, and sport-specific movement.
+
+Exercises:
+- Single-leg calf raises: 3 x 15–20 reps
+- Single-leg squat progressions: 3 x 10–15 reps
+- Lateral shuffle drills, figure-of-eight walking
+- Agility ladder drills (flat, progressing to cutting movements)
+- Hop and land progressions: double leg → single leg
+- Proprioception challenges: Eyes-open → eyes-closed standing
+
+Criteria to progress: Single-leg hop distance ≥90% of uninjured side,
+able to jog without pain, full strength compared to uninjured side.
+
+Phase 4 — Return to Sport (Weeks 6–12)
+Goals: Restore sport-specific fitness and confidence.
+
+Exercises:
+- Straight-line jogging → increasing speeds → sprinting
+- Cutting, side-stepping, change of direction drills
+- Sport-specific skill work
+- Full training drills with ankle brace for first 4–6 weeks back
+
+Return to full competition criteria:
+- No pain with sport-specific activities
+- Full strength and range of motion
+- Passes functional hop tests (≥90% symmetry)
+- Confident in the joint — no fear of re-injury
+
+
+SECTION 3: HAMSTRING STRAIN REHABILITATION PROTOCOL
+====================================================
+
+Phase 1 — Acute Phase (Days 1–7)
+Goals: Reduce pain and bleeding, protect the muscle, maintain fitness.
+
+- PRICE protocol
+- Isometric hamstring contractions at a comfortable length (5s holds, 10 reps)
+- Stationary cycling (no resistance) if comfortable
+- Upper body strength work and contralateral leg training
+
+Do NOT stretch the hamstring in this phase.
+
+Phase 2 — Early Rehabilitation (Week 1–3)
+Goals: Restore range of motion, begin progressive loading.
+
+- Prone hip extension with knee bent (gentle): 3 x 15 reps
+- Bridging progressions: double → single-leg: 3 x 10 reps
+- Leg curl on machine (low load): 3 x 15 reps
+- Gentle stationary cycling with progressive resistance
+- Begin walking at comfortable pace
+
+Phase 3 — Mid-Rehabilitation (Weeks 3–6)
+Goals: Strengthen through full range, build running tolerance.
+
+- Nordic hamstring curls (eccentric focus): 2 x 8–12 reps
+- Romanian deadlifts with controlled load: 3 x 10–12 reps
+- Single-leg deadlifts: 3 x 10 each side
+- Progressive running programme: walk → jog → run (no sprinting yet)
+  Follow a structured running volume plan, increasing 10–15% per week
+
+Phase 4 — Return to Sport (Weeks 6–12)
+Goals: Full speed running, sport-specific movement, return to competition.
+
+- Sprint drills at progressively increasing intensity
+- Cutting and change of direction at speed
+- Sport-specific training sessions
+- Maintain Nordic hamstring exercise as prevention 2x/week
+
+Return to competition criteria:
+- No pain with maximal speed running
+- Strength ≥90% of uninjured side on isokinetic testing or single-leg tests
+- Full confidence in the muscle
+- Passed high-speed running tolerance test
+
+Prevention after hamstring strain:
+The Nordic hamstring curl (eccentric) programme significantly reduces the risk
+of hamstring re-injury and should be continued as part of regular training.
+
+
+SECTION 4: ACL REHABILITATION PROTOCOL (POST-SURGERY)
+=======================================================
+
+Overview
+ACL reconstruction rehabilitation is a long, demanding process typically
+spanning 9–12 months. Premature return to sport is the primary risk factor
+for graft failure and re-injury.
+
+Month 1–2: Early Phase
+Goals: Reduce swelling, restore range of motion, activate quadriceps.
+
+- Ankle pumps, straight-leg raises, isometric quadriceps activation
+- Stationary cycling (low resistance) — start Day 10 post-op if cleared
+- Restore full knee extension: critical in this phase
+- Swelling management: elevation, ice, compression
+- No knee flexion beyond 90° for the first 4–6 weeks (surgeon-dependent)
+
+Month 2–4: Strengthening Phase
+Goals: Regain strength, walking without aids, begin cardiovascular training.
+
+- Leg press (bilateral): start at 50% body weight, progress
+- Mini-squats (0–45°): 3 x 15 reps
+- Step-ups and step-downs: 3 x 12 reps
+- Single-leg balance and proprioception
+- Pool running or swimming for cardiovascular fitness
+- Target: Full extension, flexion to 120° by week 12
+
+Month 4–6: Neuromuscular Phase
+Goals: Build strength to ≥70% symmetry, introduce running.
+
+- Progressive squats and lunges
+- Hip strengthening programme (hip abductors and external rotators)
+- Running programme begins if quadriceps symmetry ≥60% on testing
+  Walk: jog: run progression over 4 weeks
+- Avoid jumping and pivoting until Month 6 clearance
+
+Month 6–9: Functional Phase
+Goals: Sport-specific movements, plyometrics, agility.
+
+- Cutting and change of direction drills at progressive intensities
+- Plyometric programme: box jumps, lateral hops, bounding
+- Agility ladder, cone drills
+- Return to non-contact sport-specific training
+
+Month 9–12: Return to Sport Phase
+Goals: Full return to competitive sport.
+
+Criteria for return to competition (must meet ALL):
+- Quadriceps strength ≥90% of uninjured side (isokinetic testing preferred)
+- Hamstring:Quadriceps ratio within normal range
+- Single-leg hop test battery ≥90% symmetry
+- Y-balance test within normal limits
+- Psychological readiness (ACL-RSI score ≥65%)
+- Medical clearance from treating surgeon and physiotherapist
+- No pain or swelling with high-intensity training
+
+Important: Skipping phases or returning before meeting criteria significantly
+increases the risk of ACL graft re-rupture and future knee problems.
+
+
+SECTION 5: ROTATOR CUFF REHABILITATION PROTOCOL
+================================================
+
+Phase 1 — Acute Phase (Weeks 1–3)
+Goals: Reduce pain and inflammation, maintain shoulder mobility.
+
+- Pendulum exercises (Codman exercises): 3 x 10, 3x/day
+- Passive and active-assisted range of motion exercises
+- Isometric external and internal rotation: 10s holds x 10 reps
+- Ice for 15 minutes after exercise
+- Postural correction exercises (scapular retraction and depression)
+
+Phase 2 — Strengthening Phase (Weeks 3–8)
+Goals: Restore rotator cuff strength and scapular control.
+
+- Theraband external rotation: 3 x 15 reps
+- Theraband internal rotation: 3 x 15 reps
+- Side-lying external rotation with light dumbbell: 3 x 12–15 reps
+- Scapular stability exercises: serratus anterior activation, wall slides
+- Avoid overhead pressing exercises in this phase
+
+Phase 3 — Advanced Strengthening (Weeks 8–16)
+Goals: Progressive overhead loading, sport-specific strength.
+
+- Overhead pressing with progressive load
+- Lat pull-down
+- Cable external and internal rotation at varying heights
+- Plyometric ball throws at low intensity
+- Sport-specific throwing or serving drills at reduced intensity
+
+Phase 4 — Return to Sport (Weeks 12–24)
+Goals: Full return to sport-specific activity.
+
+- Progressive throwing/serving programmes
+- Field/court based sport-specific drills
+- Full training intensity
+
+Criteria: Full pain-free range of motion, strength ≥90% of uninjured side,
+able to complete all sport-specific drills without pain.
+
+
+SECTION 6: CONCUSSION RETURN TO SPORT PROTOCOL
+===============================================
+
+Key Principles
+1. The athlete must be completely symptom-free AT REST before starting the
+   return to sport (RTS) protocol.
+2. Each step takes a minimum of 24 hours.
+3. If symptoms return at any step, return to the previous step and wait a
+   minimum of 24 hours before attempting again.
+4. The entire protocol must be supervised by a healthcare professional.
+5. Children and adolescents take longer to recover and should follow a
+   modified protocol with their school/education also involved.
+
+Step 1: Symptom-limited daily activity
+Low-intensity cognitive and physical tasks that do not provoke symptoms.
+Activities: Walking, light housework, reading for short periods.
+
+Step 2: Light aerobic exercise
+Goal: Increase heart rate without any symptom provocation.
+Activities: Walking, swimming, stationary cycling. No resistance training.
+No head-jolting movements.
+
+Step 3: Sport-specific exercise
+Goal: Add movement patterns relevant to the sport.
+Activities: Running drills, skating drills (no contact or risk of head impact).
+
+Step 4: Non-contact training drills
+Goal: Exercise, co-ordination, and cognitive load.
+Activities: More complex drills, passing drills, resistance training begins.
+Medical clearance required before this step.
+
+Step 5: Full-contact practice
+Goal: Restore confidence and assess functional skills by coaching staff.
+Medical clearance REQUIRED before this step.
+Activities: Normal training activities with full contact permitted.
+
+Step 6: Return to competition
+Normal game play.
+
+Medical Clearance Requirement
+A qualified medical doctor (or sports medicine physician) must provide
+written clearance before the athlete progresses to Steps 5 and 6.
+
+Important Note on Second Impact Syndrome
+Second Impact Syndrome (SIS) occurs when a second concussion is sustained
+before the first has fully resolved. It is rare but can be catastrophic or
+fatal due to rapid brain swelling. This is why the "if in doubt, sit them out"
+rule is non-negotiable.
