@@ -1,4 +1,6 @@
-# 🏥 Sports Injury Recovery Assistant
+#  Sports Injury Recovery Assistant
+
+
 
 > **University Assignment — Agentic RAG System demonstrating multi-agent orchestration, agent-to-agent communication, and Retrieval-Augmented Generation (RAG) for sports medicine first aid.**
 
@@ -7,12 +9,12 @@ guidance for common sports and karate injuries. Built for IT41043 (Agentic AI).
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 **[Try it here](https://sports-injury-assistant.streamlit.app)** <!-- TODO: replace after deploying -->
 
 ---
 
-## 📋 Project Description
+## Project Description
 
 The Sports Injury Recovery Assistant addresses a real problem faced by athletes and martial
 artists (including karate practitioners): getting quick, reliable first-aid guidance for common
@@ -29,12 +31,12 @@ recovery guide.
 - Retrieval-Augmented Generation (RAG) with ChromaDB and sentence-transformers
 - Responsible AI: automatic safety review before responses reach the user
 
-**⚠️ Disclaimer:** This tool is for educational purposes only and is not a substitute for
+** Disclaimer:** This tool is for educational purposes only and is not a substitute for
 professional medical advice.
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -79,18 +81,18 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🏗️ Architecture Diagram
+##  Architecture Diagram
 
 ```mermaid
 flowchart TD
-    User[👤 User Input] --> Orchestrator[🧠 Orchestrator]
+    User[ User Input] --> Orchestrator[ Orchestrator]
 
     Orchestrator --> Triage[Agent 1: TriageAgent<br/>Groq - Llama 3.1 8B]
     Triage -->|urgency classification| Orchestrator
 
     Orchestrator --> RAG[Agent 2: RAGAgent<br/>OpenRouter - Claude]
     RAG --> Retriever[🔍 ChromaDB Retriever]
-    Retriever --> KB[(📚 Knowledge Base<br/>33 documents)]
+    Retriever --> KB[( Knowledge Base<br/>33 documents)]
     KB --> Retriever
     Retriever --> RAG
     RAG -->|grounded answer + sources| Orchestrator
@@ -98,13 +100,13 @@ flowchart TD
     Orchestrator --> Reflection[Agent 3: ReflectionAgent<br/>Groq - Llama 3.1 8B]
     Reflection -->|safety-reviewed answer| Orchestrator
 
-    Orchestrator --> UI[💬 Streamlit UI]
+    Orchestrator --> UI[ Streamlit UI]
     UI --> User
 ```
 
 ---
 
-## 🤖 Agent Summary & Model-Choice Comparison
+##  Agent Summary & Model-Choice Comparison
 
 | Agent | Model | Provider | Why This Model? | Pattern |
 |---|---|---|---|---|
@@ -128,7 +130,7 @@ for the one step that most affects output quality (final answer synthesis).
 
 ---
 
-## 🔄 Agent Communication Sequence
+##  Agent Communication Sequence
 
 ```mermaid
 sequenceDiagram
@@ -153,7 +155,7 @@ sequenceDiagram
 
 ---
 
-## 📚 RAG Pipeline Explanation
+##  RAG Pipeline Explanation
 
 ### Knowledge Base
 33 curated documents covering RICE/PRICE protocol, ankle injuries, wrist/hand/finger injuries,
@@ -184,15 +186,15 @@ user_query → SentenceTransformer.encode() → ChromaDB.query() (top-k=4) → r
 
 ---
 
-## 🔍 Retrieval Evaluation (5 Sample Queries)
+##  Retrieval Evaluation (5 Sample Queries)
 
 | # | Query | Retrieved Context Relevant? | Comments |
 |---|---|---|---|
-| 1 | "I sprained my ankle during sparring, it's swollen and bruised" | ✅ Yes | Retrieved `ankle_sprain_grades.txt` and `rice_protocol_overview.txt` — directly relevant, answer cited grade classification and RICE steps accurately |
-| 2 | "Hard punch to face, nose bleeding, feels crooked" | ✅ Yes | Retrieved `nasal_injury_blocking_firstaid.txt` and `nasal_fracture_signs.txt` — correctly triggered "see a doctor" classification |
-| 3 | "Knee aching for a week after long training, no swelling" | ✅ Yes | Retrieved `runners_knee_treatment.txt` — correctly distinguished overuse injury (patellofemoral pain) from acute injury, cited 4-12 week recovery timeline |
-| 4 | "Muscle cramp in my calf during a match" | ✅ Yes | Retrieved `muscle_cramp_treatment.txt` — relevant, practical guidance returned |
-| 5 | "Shoulder hurts after throwing a ball repeatedly" | ✅ Yes | Retrieved `shoulder_overuse_injury.txt` and `rotator_cuff_injury.txt` — correctly identified as overuse rather than acute injury |
+| 1 | "I sprained my ankle during sparring, it's swollen and bruised" |  Yes | Retrieved `ankle_sprain_grades.txt` and `rice_protocol_overview.txt` — directly relevant, answer cited grade classification and RICE steps accurately |
+| 2 | "Hard punch to face, nose bleeding, feels crooked" |  Yes | Retrieved `nasal_injury_blocking_firstaid.txt` and `nasal_fracture_signs.txt` — correctly triggered "see a doctor" classification |
+| 3 | "Knee aching for a week after long training, no swelling" |  Yes | Retrieved `runners_knee_treatment.txt` — correctly distinguished overuse injury (patellofemoral pain) from acute injury, cited 4-12 week recovery timeline |
+| 4 | "Muscle cramp in my calf during a match" |  Yes | Retrieved `muscle_cramp_treatment.txt` — relevant, practical guidance returned |
+| 5 | "Shoulder hurts after throwing a ball repeatedly" |  Yes | Retrieved `shoulder_overuse_injury.txt` and `rotator_cuff_injury.txt` — correctly identified as overuse rather than acute injury |
 
 **Overall observation:** Retrieval quality is consistently high because the knowledge base is
 narrowly scoped (sports injuries only) with clearly-differentiated document topics. The main
@@ -201,7 +203,7 @@ chunks.
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 1. **Knowledge base depth**: The system can only answer questions about topics covered in the 33
    ingested documents. Questions well outside this scope receive more generic answers.
@@ -222,7 +224,7 @@ chunks.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sports-injury-assistant/
@@ -248,7 +250,7 @@ sports-injury-assistant/
 
 ---
 
-## 🛠️ Tools & Development Disclosure
+##  Tools & Development Disclosure
 
 **Core Technologies:**
 - Python 3.12
