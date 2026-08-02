@@ -8,7 +8,7 @@ guidance for common sports and karate injuries. Built for IT41043 (Agentic AI).
 ---
 
 ## 🌐 Live Demo
-**[Try it here](YOUR_STREAMLIT_URL_HERE)** <!-- TODO: replace after deploying -->
+**[Try it here](https://sports-injury-assistant.streamlit.app)** <!-- TODO: replace after deploying -->
 
 ---
 
