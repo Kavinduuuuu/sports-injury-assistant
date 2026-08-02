@@ -1,0 +1,18 @@
+# ── Core Web UI ──────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── LLM API clients ──────────────────────────────────────────────────────────
+groq>=0.9.0                  # Groq API (TriageAgent, ReflectionAgent)
+openai>=1.30.0               # OpenRouter uses the OpenAI-compatible SDK
+
+# ── Embeddings (local, no API key needed) ────────────────────────────────────
+sentence-transformers>=3.0.0  # all-MiniLM-L6-v2 model
+
+# ── Vector Store ─────────────────────────────────────────────────────────────
+chromadb>=0.5.0              # Persistent local vector store
+
+# ── Document ingestion ───────────────────────────────────────────────────────
+pypdf>=4.0.0                 # Read PDF files from the /data folder
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0         # Load API keys from .env file
