@@ -238,3 +238,63 @@ sports-injury-assistant/
 ├── requirements.txt
 └── README.md
 ```
+
+# 🏥 Sports Injury Recovery Assistant
+An agentic RAG-based AI assistant that provides grounded, evidence-based first-aid and recovery 
+guidance for common sports and karate injuries. Built for IT41043 (Agentic AI).
+## 🌐 Live Demo
+**[Try it here](YOUR_STREAMLIT_URL_HERE)**
+## 📋 Project Description
+This application addresses a real problem faced by athletes and martial artists (including karate 
+practitioners): getting quick, reliable first-aid guidance for common training injuries before 
+deciding whether professional medical care is needed. It uses a 3-agent pipeline combined with a 
+Retrieval-Augmented Generation (RAG) system grounded in a curated knowledge base of 33 sports 
+medicine documents.
+**⚠️ Disclaimer:** This tool is for educational purposes only and is not a substitute for 
+professional medical advice.
+## ⚙️ Setup Instructions
+1. Clone the repository:
+   \`\`\`bash
+   git clone https://github.com/YOUR_USERNAME/sports-injury-assistant.git
+   cd sports-injury-assistant
+   \`\`\`
+2. Install dependencies:
+   \`\`\`bash
+   pip install -r requirements.txt
+   \`\`\`
+3. Set up environment variables:
+   \`\`\`bash
+   cp .env.example .env
+   # Fill in GROQ_API_KEY and OPENROUTER_API_KEY
+   \`\`\`
+4. Run the RAG ingestion pipeline (embeds knowledge base into ChromaDB):
+   \`\`\`bash
+   python rag/ingest.py
+   \`\`\`
+5. Launch the app:
+   \`\`\`bash
+   streamlit run app.py
+   \`\`\`
+
+## 🔄 Agent Communication Sequence
+
+\`\`\`mermaid
+sequenceDiagram
+    participant U as User
+    participant O as Orchestrator
+    participant T as TriageAgent
+    participant R as RAGAgent
+    participant Rf as ReflectionAgent
+    participant DB as ChromaDB
+
+    U->>O: Injury description
+    O->>T: {"query": "..."}
+    T->>O: {"urgency": "self_manageable/see_doctor", "reasoning": "..."}
+    O->>R: {"query": "...", "urgency_context": "..."}
+    R->>DB: Retrieve top-k chunks
+    DB->>R: Relevant excerpts
+    R->>O: {"answer": "...", "sources": [...]}
+    O->>Rf: {"answer": "...", "urgency": "..."}
+    Rf->>O: {"approved": true, "revised_answer": "..."}
+    O->>U: Final response
+\`\`\`
