@@ -219,7 +219,7 @@ __marimo__/
 
 # ── Project-specific ─────────────────────────────────────────────────────────
 # ChromaDB persistent storage (generated at runtime by rag/ingest.py)
-chroma_db/
+#chroma_db/
 
 # Environment file with real API keys
 .env
